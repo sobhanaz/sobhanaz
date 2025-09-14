@@ -1,8 +1,5 @@
 # ✨ Welcome to My GitHub Profile! ✨
 
-<div align="center">
-  <img src="https://github.com/sobhanaz/sobhanaz/blob/main/header.gif" alt="Welcome Banner" width="100%"/>
-</div>
 
 <img src="https://raw.githubusercontent.com/sobhanaz/sobhanaz/output/snake.svg" alt="Snake animation" />
 
