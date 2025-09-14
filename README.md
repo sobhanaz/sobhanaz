@@ -31,6 +31,7 @@ I believe in the power of code to shape the future, inspire generations, and bui
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -47,6 +48,14 @@ I believe in the power of code to shape the future, inspire generations, and bui
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <!-- Add more icons as needed -->
+</p>
+
+---
+
+## 📊 Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/metrics.svg" alt="Metrics" />
 </p>
 
 ---
