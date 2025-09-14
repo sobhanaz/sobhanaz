@@ -1,7 +1,6 @@
 # ✨ Welcome to My GitHub Profile! ✨
 
 
-<img src="https://raw.githubusercontent.com/sobhanaz/sobhanaz/output/snake.svg" alt="Snake animation" />
 
 ## 👨‍💻 About Me
 
@@ -215,8 +214,3 @@ Hi! I'm **Sobhanaz** — a passionate developer and creative technologist from I
   
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sobhanaz/sobhanaz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sobhanaz/sobhanaz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sobhanaz/sobhanaz/output/pacman-contribution-graph.svg">
-</picture>
