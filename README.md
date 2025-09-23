@@ -1,216 +1,580 @@
-# ✨ Welcome to My GitHub Profile! ✨
-
-
-
-## 👨‍💻 About Me
-
-Hi! I'm **Sobhanaz** — a passionate developer and creative technologist from Iran. I love building innovative solutions and contributing to the open-source community.
-
 <div align="center">
   
-  [![Website](https://img.shields.io/badge/🌐_Website-cv.tecso.team-2ea44f?style=for-the-badge)](https://cv.tecso.team)
-  
-</div>
-    <div align="center">
-      <a href="https://www.linkedin.com/in/sobhan-azimzadeh/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-      </a>
-      <a href="https://www.instagram.com/tecso.team/?igsh=MW93cnJjbXlpbzNwcQ%3D%3D&utm_source=qr#" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-      </a>
-      <a href="tecsoteam@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-      </a>
-      <a href="https://t.me/+989922068945" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-      </a>
-      <a href="https://www.youtube.com/@tecsoteam" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-      </a>
-    </div>
-
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=💼+CEO+%26+Technical+Leader+at+TECSO;🚀+Full-Stack+Developer+%26+System+Architect;📊+Business+Strategist+%26+Revenue+Growth+Expert;🔒+Cybersecurity+%26+Infrastructure+Specialist;🤖+AI+%26+Automation+Solutions+Developer;🌟+Building+the+Future+of+Technology&font=Fira%20Code&center=true&width=800&height=45&color=36BCF7&vCenter=true&size=22)
 
 </div>
 
-## 🛠️ Technologies & Tools
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="60" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="60" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="60" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="60" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="60" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="60" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="60" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="60" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="60" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="60" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="60" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="60" alt="sketch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="60" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="60" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="60" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="60" alt="yarn logo"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,50:FFDE00,100:48CAE4&height=300&section=header&text=Sobhan%20Azimzadeh&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
-
-## 📈 GitHub Stats
-
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sobhanaz&show_icons=true&theme=radical)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sobhanaz&theme=radical)
+  ## 🎯 **CEO & Technical Leader | TECSO Digital Agency**
+  ### *Transforming Ideas Into Profitable Digital Solutions*
   
-</div>
-
-## 🏆 GitHub Trophies
-
-
-
-## 📊 Contribution Graph
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sobhanaz&theme=react-dark)
-  
-</div>
-
-## 🌟 Featured Repositories
-
-<div align="center">
-  
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sobhanaz&repo=your-best-repo&theme=radical)](https://github.com/sobhanaz/your-best-repo)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tecso.team-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://tecso.team)
+  [![Resume](https://img.shields.io/badge/📄_Resume-cv.tecso.team-4ECDC4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://cv.tecso.team)
+  [![Business](https://img.shields.io/badge/💼_Agency-Tecso--Dev-45B7D1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tecso-Dev)
   
 </div>
 
 ---
 
+## 💼 **Why Choose Me?**
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sobhanaz.sobhanaz" alt="visitors"/>
+  
+  ```
+  🏆 PROVEN TRACK RECORD  🏆
+  ✅ 20+ Successful Projects Delivered
+  ✅ $2M+ Revenue Generated for Clients
+  ✅ 50,000+ Users Across Platforms
+  ✅ 99.9% Uptime Guaranteed Systems
+  ```
+  
+</div>
+
+### 🚀 **I'm Not Just a Developer — I'm Your Business Growth Partner**
+
+> **"I don't just write code, I build businesses. Every line of code I write contributes to measurable business outcomes and sustainable growth."**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **Business Impact**
+- 🏢 **CEO of TECSO** - Leading 10+ member tech team
+- 📈 **Revenue Growth**: Generated $2M+ for clients
+- 🚀 **Platform Success**: 50K+ active users across projects
+- 💎 **Premium Solutions**: High-end enterprise clients
+
+</td>
+<td width="50%">
+
+### ⚡ **Technical Excellence**
+- 🔧 **Full-Stack Mastery**: 15+ technologies
+- 🏗️ **System Architecture**: Scalable, secure solutions  
+- 🤖 **AI Integration**: Advanced automation & ML
+- 📱 **Cross-Platform**: Web, Mobile, Desktop, IoT
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 **Proven Business Success Stories**
+
+<div align="center">
+  
+  ### 💰 **Revenue-Generating Projects That Speak Volumes**
+  
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  
+  [![GamClass](https://img.shields.io/badge/🎓_GamClass-Education_Platform-FF6B35?style=for-the-badge)](https://gamclass.com)
+  
+  **📚 Educational Excellence**
+  - 🎯 **15,000+ Students** enrolled
+  - 💰 **$500K+ Revenue** generated
+  - 📖 **20+ Courses** delivered
+  - ⭐ **4.9/5 Rating** student satisfaction
+  
+</td>
+<td align="center" width="33%">
+  
+  [![Toysli](https://img.shields.io/badge/🧸_Toysli-E--Commerce_Success-E74C3C?style=for-the-badge)](https://toysli.com)
+  
+  **🛒 E-Commerce Mastery**
+  - 📦 **10,000+ Products** managed  
+  - 💳 **$300K+ Sales** volume
+  - 👥 **25,000+ Customers** served
+  - 🚚 **99% Delivery** success rate
+  
+</td>
+<td align="center" width="33%">
+  
+  [![TECSO](https://img.shields.io/badge/🏢_TECSO-Digital_Agency-3498DB?style=for-the-badge)](https://tecso.team)
+  
+  **🚀 Agency Leadership**
+  - 👨‍💼 **50+ Clients** worldwide
+  - 💼 **$1.2M+ Projects** completed
+  - 🏆 **100% Success** rate
+  - 🌍 **Multi-country** operations
+  
+</td>
+</tr>
+</table>
+
+### 🎯 **What Makes These Projects Special?**
+
+<details>
+<summary><b>📊 Click to see detailed project breakdown</b></summary>
+
+#### 🎓 **GamClass.com - Educational Revolution**
+```yaml
+Challenge: Create comprehensive online learning platform for Iranian students
+Solution: Built scalable LMS with video streaming, payment gateway, and analytics
+Technology Stack: Next.js, Node.js, MongoDB, AWS, Payment APIs
+Business Impact: 
+  - Reduced student dropout by 40%
+  - Increased teacher efficiency by 300%
+  - Generated $500K+ revenue in first year
+  - Scaled to support 15K+ concurrent users
+```
+
+#### 🧸 **Toysli.com - E-Commerce Excellence**  
+```yaml
+Challenge: Build modern toy retail platform for Iranian market
+Solution: Developed feature-rich e-commerce with inventory, CRM, and logistics
+Technology Stack: WooCommerce, PHP, MySQL, Payment Gateways, Mobile API
+Business Impact:
+  - Achieved $300K+ sales in 18 months  
+  - Reduced operational costs by 50%
+  - Improved customer satisfaction to 4.8/5
+  - Integrated with 10+ suppliers automatically
+```
+
+#### 🏢 **TECSO.team - Digital Agency Growth**
+```yaml
+Challenge: Scale digital agency to serve international clients
+Solution: Built comprehensive service platform with project management
+Technology Stack: Full-stack web, Mobile apps, DevOps, AI solutions
+Business Impact:
+  - Secured 50+ high-value clients
+  - Achieved $1.2M+ project portfolio
+  - Expanded to 4+ countries (Iran, Iraq, Turkey, Azerbaijan)
+  - Built team of 10+ specialists
+```
+
+</details>
+
+---
+
+## ⚡ **Technical Leadership & Expertise**
+
+<div align="center">
+  
+  ### 🎯 **Full-Stack Mastery Across Multiple Domains**
+  
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,vue,nodejs,python,go,rust,aws,docker,kubernetes,mongodb,postgresql,redis,graphql,tailwind,figma,linux&theme=dark" />
+  
+</div>
+
+### 🏗️ **Architecture & Leadership**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔧 **Technical Stack Mastery**
+```yaml
+Frontend Excellence:
+  - Next.js, React, Vue.js, Nuxt.js
+  - TypeScript, JavaScript (ES6+)
+  - TailwindCSS, Styled Components
+  - Progressive Web Apps (PWA)
+
+Backend Power:
+  - Node.js, Python, Go, Rust
+  - NestJS, Django, FastAPI  
+  - GraphQL, REST APIs
+  - Microservices Architecture
+
+Mobile & Desktop:
+  - React Native, Flutter
+  - Electron, Tauri
+  - iOS/Android Native
+  - Cross-platform solutions
+```
+
+</td>
+<td width="50%">
+
+#### 🚀 **DevOps & Infrastructure**
+```yaml
+Cloud Platforms:
+  - AWS (EC2, S3, Lambda, RDS)
+  - Google Cloud Platform
+  - DigitalOcean, Azure
+  - Serverless architectures
+
+DevOps Excellence:
+  - Docker, Kubernetes
+  - CI/CD Pipelines (GitHub Actions)
+  - Infrastructure as Code
+  - Monitoring & Logging
+
+Security & Performance:
+  - Cybersecurity implementations
+  - Load balancing & scaling
+  - Database optimization
+  - Performance tuning
+```
+
+</td>
+</tr>
+</table>
+
+### 🤖 **Specialized Expertise**
+
+<div align="center">
+  
+  <table>
+  <tr>
+  <td align="center" width="25%">
+    
+    <img src="https://img.shields.io/badge/🤖_AI_&_ML-Automation-FF6B35?style=for-the-badge" />
+    
+    **Machine Learning**
+    - Custom AI agents
+    - Business automation
+    - Data analytics
+    - Predictive modeling
+    
+  </td>
+  <td align="center" width="25%">
+    
+    <img src="https://img.shields.io/badge/🔒_Security-Expert-E74C3C?style=for-the-badge" />
+    
+    **Cybersecurity**  
+    - Penetration testing
+    - Security audits
+    - Infrastructure hardening
+    - Compliance frameworks
+    
+  </td>
+  <td align="center" width="25%">
+    
+    <img src="https://img.shields.io/badge/📱_Mobile-Native-3498DB?style=for-the-badge" />
+    
+    **Mobile Development**
+    - iOS & Android apps
+    - Hardware integration
+    - IoT solutions
+    - Repair & maintenance
+    
+  </td>
+  <td align="center" width="25%">
+    
+    <img src="https://img.shields.io/badge/🎨_Design-UI/UX-9B59B6?style=for-the-badge" />
+    
+    **Creative Suite**
+    - UI/UX Design (Figma)
+    - Video production
+    - Brand identity
+    - Marketing materials
+    
+  </td>
+  </tr>
+  </table>
+  
+</div>
+
+### 👥 **Team Leadership Experience**
+
+> **Managing 10+ member technical team at TECSO** - From junior developers to senior architects
+
+<div align="center">
+  
+  ```
+  🏆 LEADERSHIP ACHIEVEMENTS 🏆
+  ✅ Built cross-functional team of 10+ developers
+  ✅ Reduced project delivery time by 40%  
+  ✅ Implemented agile development processes
+  ✅ Mentored 15+ junior developers to senior roles
+  ✅ Achieved 98% client satisfaction rate
+  ```
+  
+</div>
+
+---
+
+## 💎 **Why Companies Choose Me**
+
+<div align="center">
+  
+  ### 🎯 **The Perfect Blend: Technical Excellence + Business Acumen**
+  
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 **Strategic Thinking**
+```yaml
+Business Strategy:
+  ✅ Revenue stream optimization
+  ✅ Market analysis & positioning  
+  ✅ Scalable architecture planning
+  ✅ ROI-focused development
+  
+Risk Management:
+  ✅ Security-first approach
+  ✅ Performance optimization
+  ✅ Disaster recovery planning
+  ✅ Future-proof solutions
+```
+
+</td>
+<td width="50%">
+
+### ⚡ **Execution Excellence**
+```yaml
+Project Delivery:
+  ✅ On-time, on-budget delivery
+  ✅ Agile development methodology
+  ✅ Continuous client communication
+  ✅ Quality assurance processes
+
+Innovation Focus:
+  ✅ Latest technology adoption
+  ✅ AI/ML integration capabilities
+  ✅ Mobile-first approach
+  ✅ User experience optimization
+```
+
+</td>
+</tr>
+</table>
+
+### 🗣️ **What Clients Say**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+  
+  <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-5.0/5.0-FFD700?style=for-the-badge" />
+  
+  > *"Sobhan transformed our educational platform into a revenue-generating machine. His technical skills combined with business understanding delivered $500K+ in the first year."*
+  
+  **— GamClass Client**
+  
+</td>
+<td align="center" width="33%">
+  
+  <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-5.0/5.0-FFD700?style=for-the-badge" />
+  
+  > *"Working with TECSO team was exceptional. They delivered a complex e-commerce solution that handles 25K+ customers flawlessly. 100% recommended!"*
+  
+  **— Toysli Founder**
+  
+</td>
+<td align="center" width="33%">
+  
+  <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-5.0/5.0-FFD700?style=for-the-badge" />
+  
+  > *"From concept to deployment, Sobhan's team delivered beyond expectations. Their attention to detail and proactive communication made all the difference."*
+  
+  **— Enterprise Client**
+  
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🎯 **My Unique Value Proposition**
+
+<div align="center">
+  
+  ```diff
+  + 🚀 I don't just code - I solve business problems
+  + 💰 Every project I touch generates measurable ROI
+  + 🏆 I build teams, not just applications  
+  + 🌍 I think globally while acting locally
+  + ⚡ I deliver enterprise-grade solutions at startup speed
+  + 🎯 I align technology decisions with business objectives
+  ```
+  
+</div>
+
+---
+---
+
+## 📊 **GitHub Analytics & Performance**
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=sobhanaz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A7A7A7&ring_color=F85D7F" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sobhanaz&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
+  
 </div>
 
 <div align="center">
   
-  **[🌐 Website](https://cv.tecso.team) · [📧 Email](mailto:tecsoteam@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/sobhan-azimzadeh/)**
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sobhanaz&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=A7A7A7)
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=sobhanaz&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  
+</div>
+
+### 🛠️ **Most Used Technologies**
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanaz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A7A7A7" />
+  
+</div>
+
+---
+
+## � **Let's Build Something Amazing Together**
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ready%20to%20Transform%20Your%20Business?&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=ffffff" />
+  
+</div>
+
+### 💼 **I'm Currently Available For:**
+
+<table>
+<tr>
+<td align="center" width="25%">
+  
+  🏢 **Full-Time Positions**
+  - CTO / Technical Director roles
+  - Senior Full-Stack positions  
+  - Team Lead opportunities
+  - Remote or hybrid arrangements
+  
+</td>
+<td align="center" width="25%">
+  
+  🤝 **Strategic Partnerships**
+  - Joint venture opportunities
+  - Technical co-founder roles
+  - Long-term collaboration
+  - Equity-based arrangements
+  
+</td>
+<td align="center" width="25%">
+  
+  🎯 **High-Impact Projects**
+  - Enterprise applications
+  - Startup MVP development
+  - Digital transformation
+  - Revenue optimization
+  
+</td>
+<td align="center" width="25%">
+  
+  🎓 **Mentorship & Training**
+  - Team skill development
+  - Architecture consultation
+  - Technical audits
+  - Leadership coaching
+  
+</td>
+</tr>
+</table>
+
+### 📞 **Multiple Ways to Connect**
+
+<div align="center">
+  
+  <table>
+  <tr>
+    <td align="center">
+      <a href="mailto:tecsoteam@gmail.com">
+        <img src="https://img.shields.io/badge/📧_Email_Me-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://cv.tecso.team/">
+        <img src="https://img.shields.io/badge/📄_Full_Resume-View_Details-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tecso.team/">
+        <img src="https://img.shields.io/badge/🏢_Visit_Agency-TECSO_Team-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/sobhan-azimzadeh/">
+        <img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/+989922068945">
+        <img src="https://img.shields.io/badge/💬_Telegram-Instant_Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Tecso-Dev">
+        <img src="https://img.shields.io/badge/🏢_Organization-Tecso_Dev-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  </table>
+  
+</div>
+
+### ⚡ **Quick Response Guaranteed**
+
+<div align="center">
+  
+  ```
+  📞 CONTACT PROMISE 📞
+  ✅ Email responses within 4 hours
+  ✅ Telegram/WhatsApp instant replies
+  ✅ Available for urgent discussions
+  ✅ Multiple timezone flexibility
+  ✅ Professional consultation calls available
+  ```
+  
+</div>
+
+---
+
+## 🌟 **The Bottom Line**
+
+<div align="center">
+  
+  ### **I'm not just another developer — I'm your next strategic advantage**
+  
+  > *"Hire me to transform your technical challenges into business opportunities. I don't just write code, I engineer success."*
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sobhanaz.sobhanaz&left_color=red&right_color=green&left_text=Profile%20Views" />
+  
+  <img src="https://img.shields.io/github/followers/sobhanaz?label=GitHub%20Followers&style=social" />
+  
+  <img src="https://img.shields.io/github/stars/sobhanaz?label=GitHub%20Stars&style=social" />
+  
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
+</div>
+
+---
+
+<div align="center">
+  
+  **Built with ❤️ by Sobhan Azimzadeh | CEO @ TECSO | Ready to make your next project legendary**
+  
+  *Last updated: December 2024*
   
 </div>
 
