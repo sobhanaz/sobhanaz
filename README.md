@@ -74,7 +74,7 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
   
   [![GamClass](https://img.shields.io/badge/🎓_GamClass-Education_Platform-FF6B35?style=for-the-badge)](https://gamclass.com)
   
@@ -85,7 +85,7 @@
   - ⭐ **4.9/5 Rating** student satisfaction
   
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
   
   [![Toysli](https://img.shields.io/badge/🧸_Toysli-E--Commerce_Success-E74C3C?style=for-the-badge)](https://toysli.com)
   
@@ -96,7 +96,7 @@
   - 🚚 **99% Delivery** success rate
   
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
   
   [![TECSO](https://img.shields.io/badge/🏢_TECSO-Digital_Agency-3498DB?style=for-the-badge)](https://tecso.team)
   
@@ -105,6 +105,17 @@
   - 💼 **$1.2M+ Projects** completed
   - 🏆 **100% Success** rate
   - 🌍 **Multi-country** operations
+  
+</td>
+<td align="center" width="25%">
+  
+  [![SaxTiran VPN](https://img.shields.io/badge/🔒_SaxTiran-VPN_Infrastructure-8B5CF6?style=for-the-badge)](https://la.saxtiran.com:8443/la/)
+  
+  **🛡️ Cybersecurity Innovation**
+  - 🔐 **Custom XRay Panel** developed
+  - 🌐 **Multi-location Tunneling** across servers
+  - 🔑 **Proprietary Encryption** algorithm
+  - ⚡ **High-performance** VPN solutions
   
 </td>
 </tr>
@@ -149,6 +160,18 @@ Business Impact:
   - Achieved $1.2M+ project portfolio
   - Expanded to 4+ countries (Iran, Iraq, Turkey, Azerbaijan)
   - Built team of 10+ specialists
+```
+
+#### 🔒 **SaxTiran VPN - Cybersecurity Infrastructure**
+```yaml
+Challenge: Create secure, high-performance VPN solution with custom encryption
+Solution: Developed custom XRay panel with proprietary tunneling technology
+Technology Stack: Custom XRay Panel, Multi-server Architecture, Proprietary Encryption
+Business Impact:
+  - Built custom encryption algorithm for enhanced security
+  - Implemented multi-location server tunneling infrastructure
+  - Achieved high-performance VPN connections across regions
+  - Delivered enterprise-grade cybersecurity solution
 ```
 
 </details>
