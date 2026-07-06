@@ -72,12 +72,13 @@ I'm a **full-stack web developer** and the founder of **[TECSO](https://tecso.te
 ## 📊 GitHub in numbers
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sobhanaz&show_icons=true&count_private=true&hide_border=true&title_color=8E2DE2&icon_color=48CAE4&text_color=9f9f9f&bg_color=0d1117" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanaz&layout=compact&langs_count=8&hide_border=true&title_color=8E2DE2&text_color=9f9f9f&bg_color=0d1117" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/sobhanaz?style=for-the-badge&logo=github&label=Followers&color=8E2DE2&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%C2%B7%20DevOps-48CAE4?style=for-the-badge&labelColor=0d1117" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20work-2ea44f?style=for-the-badge&labelColor=0d1117" alt="Open to remote" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sobhanaz&hide_border=true&background=0d1117&ring=8E2DE2&fire=48CAE4&currStreakLabel=8E2DE2" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=sobhanaz&hide_border=true&background=0D1117&ring=8E2DE2&fire=48CAE4&currStreakLabel=8E2DE2&stroke=8E2DE2&sideLabels=9f9f9f&dates=9f9f9f&sideNums=9f9f9f&currStreakNum=FFFFFF&dayLabels=9f9f9f&titleColor=8E2DE2" alt="GitHub streak stats" />
 </div>
 
 ---
