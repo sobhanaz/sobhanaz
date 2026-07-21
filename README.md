@@ -25,7 +25,7 @@ I'm a **full-stack web developer** and the founder of **[TECSO](https://tecso.te
 - 🔭 Currently building **[Noxioai](https://github.com/Tecso-Dev/Noxioai)** — a bilingual (FA/EN) AI-employee platform for businesses.
 - 🌱 Going deep on **Go**, **PostgreSQL**, and distributed back-end architecture.
 - 🛡️ I also do **security research** — deobfuscation, detection tooling, and defensive analysis.
-- 🌍 Native **Persian**, professional **English**. Open to **remote roles worldwide**.
+- 🌍 Native **Persian**, **C2 Proficient English** — [EF SET 76/100, verified](https://cert.efset.org/en/odLaRd). Open to **remote roles worldwide**.
 - 💬 Ask me about Vue/Nuxt front-ends, PWAs, Chrome extensions, or Linux/DevOps automation.
 
 ---
