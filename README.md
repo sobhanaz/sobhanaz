@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/🟢%20Open%20to%20work-Remote%20worldwide-2ea44f?style=flat-square" alt="Open to work" />
-  <img src="https://img.shields.io/badge/🇵🇱%20Polish%20citizen-EU%20work%20authorization-blue?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/📍%20Based%20in-Iran%20%C2%B7%20Remote%20worldwide-blue?style=flat-square" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=sobhanaz&label=Profile%20views&color=8E2DE2&style=flat-square" alt="Profile views" />
 </div>
 
@@ -24,7 +24,7 @@ I'm an **AI Product Engineer**: I ship LLM-powered products end-to-end — **Go*
 - 🚗 **[KhodroBin](https://github.com/sobhanaz/khodrobin)** · [live](https://khodrobin.noxioai.com) — multi-source used-car price engine: 5 crawlers, sub-millisecond ranking, a five-axis hallucination guard on every LLM explanation, 268 tests gating deploys.
 - 🤖 **[NOXIOAI](https://github.com/Tecso-Dev/Noxioai)** · [live](https://noxioai.com) — multi-tenant AI customer-response SaaS (Go + Nuxt + PostgreSQL) with a 24/7 Go agent pipeline behind human approval gates.
 - 🏠 **[SorinFlow](https://github.com/Tecso-Dev/SorinFlow-DaTA-mAmager)** — real-estate data scraper + CRM on FastAPI/Playwright/PostgreSQL, deployed to k3s by push-to-main.
-- 🌍 Native **Persian**, **C2 Proficient English** — [EF SET 76/100, verified](https://cert.efset.org/en/odLaRd). **Polish citizen** (EU work authorization), based in Iran, open to **remote roles worldwide** and EU relocation.
+- 🌍 Native **Persian**, **C2 Proficient English** — [EF SET 76/100, verified](https://cert.efset.org/en/odLaRd). Based in Iran, open to **remote roles worldwide** and relocation.
 
 ---
 
