@@ -1,0 +1,44 @@
+name: Build profile cards
+
+on:
+  schedule: # every 6 hours, so the numbers stay current
+    - cron: "23 */6 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+    - main
+    paths:
+    - ".github/cards/**"
+    - ".github/workflows/cards.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: build cards from live GitHub data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/cards/build.py --user "${{ github.repository_owner }}" --out dist
+
+      - name: push cards to the cards branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -q -b cards
+          git add .
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "cards: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -q -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" cards

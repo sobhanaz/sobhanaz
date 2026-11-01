@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://sobhanaz.github.io">
-  <img src="https://www.gitskins.com/api/section/hero?username=sobhanaz&theme=midnight&style=aura" width="100%" alt="Sobhan Azimzadeh — Founder & Technical Lead at TECSO, AI product engineer" />
+  <img src="https://raw.githubusercontent.com/sobhanaz/sobhanaz/cards/hero.svg" width="100%" alt="Sobhan Azimzadeh — Founder & Technical Lead at TECSO, AI product engineer" />
 </a>
 
 <a href="https://sobhanaz.github.io"><img src="https://img.shields.io/badge/Portfolio-818cf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
@@ -18,9 +18,7 @@
 <tr>
 <td width="64%" valign="top">
 
-<sub>FOUNDER · AI PRODUCT ENGINEER · URMIA, IRAN · REMOTE WORLDWIDE</sub>
-
-### I ship LLM-powered products end-to-end, and the infrastructure that keeps them honest.
+<sub>ABOUT · URMIA, IRAN · REMOTE WORLDWIDE</sub>
 
 I founded and lead **[TECSO](https://github.com/Tecso-Dev)** (راهکارپرداز فن‌آوران هوشمند), a software and infrastructure studio building products since 2018. My day-to-day: **Go** and **Python (FastAPI)** back-ends, **Vue / Nuxt** and **React** front-ends, PostgreSQL and Redis, Docker and Kubernetes, plus the evals, guards and CI/CD that keep AI features reliable in production.
 
@@ -29,6 +27,7 @@ I founded and lead **[TECSO](https://github.com/Tecso-Dev)** (راهکارپرد
 
 <sub>RIGHT NOW</sub>
 
+- **BOBRES** · Telegram sales bot, Mini App and panel
 - **SorinFlow** · scaling the real-estate CRM
 - **NOXIOAI** · building AI staff for SMBs
 - **KhodroBin** · tuning ranking and guards
@@ -47,8 +46,12 @@ I founded and lead **[TECSO](https://github.com/Tecso-Dev)** (راهکارپرد
 </tr>
 </table>
 
-<a href="https://github.com/sobhanaz?tab=repositories">
-  <img src="https://www.gitskins.com/api/section/stats?username=sobhanaz&theme=midnight&style=aura" width="100%" alt="Live GitHub stats for sobhanaz: stars, contributions, repositories, followers" />
+<img src="https://raw.githubusercontent.com/sobhanaz/sobhanaz/cards/stats.svg" width="100%" alt="Last 12 months on GitHub: contributions, active days, longest streak, public repositories and followers" />
+
+## What I'm building right now
+
+<a href="https://github.com/sobhanaz?tab=repositories&sort=updated">
+  <img src="https://raw.githubusercontent.com/sobhanaz/sobhanaz/cards/building.svg" width="100%" alt="Public commits by project over the last 90 days" />
 </a>
 
 ## Selected work
@@ -84,10 +87,6 @@ I founded and lead **[TECSO](https://github.com/Tecso-Dev)** (راهکارپرد
 </tr>
 </table>
 
-<a href="https://github.com/sobhanaz?tab=repositories">
-  <img src="https://www.gitskins.com/api/section/projects?username=sobhanaz&theme=midnight&style=aura&repos=sobhanaz%2Fkhodrobin%2Csobhanaz%2Fbobres-3x-ui-telegram-panel%2Csobhanaz%2Fdigikala-clone%2Csobhanaz%2Fparsi-text" width="100%" alt="Public repositories: khodrobin, bobres-3x-ui-telegram-panel, digikala-clone, parsi-text" />
-</a>
-
 <p align="center"><sub>More in <a href="https://github.com/sobhanaz?tab=repositories">my repositories</a> and the <a href="https://github.com/Tecso-Dev">TECSO organization</a>.</sub></p>
 
 ## Technical toolkit
@@ -112,9 +111,9 @@ I founded and lead **[TECSO](https://github.com/Tecso-Dev)** (راهکارپرد
 <tr><td valign="top"><b>Education</b></td><td valign="top"><b>BSc Computer Engineering · University of Tabriz</b></td></tr>
 </table>
 
-## Consistency
+## Contribution city
 
-<img src="https://www.gitskins.com/api/section/heatmap?username=sobhanaz&theme=midnight&style=aura" width="100%" alt="Contribution activity over the last year" />
+<img src="https://raw.githubusercontent.com/sobhanaz/sobhanaz/cards/city.svg" width="100%" alt="Contributions over the last 12 months as a 3D city, one tower per day" />
 
 ## Work with me
 
@@ -147,6 +146,6 @@ I founded and lead **[TECSO](https://github.com/Tecso-Dev)** (راهکارپرد
 <a href="https://www.linkedin.com/in/sobhan-azimzadeh/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2E1YjRmYyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>&nbsp;
 <a href="https://t.me/+989922068945"><img src="https://img.shields.io/badge/Telegram-0f172a?style=for-the-badge&logo=telegram&logoColor=5beaf6" alt="Telegram" /></a>
 
-<sub>Profile cards by <a href="https://www.gitskins.com">GitSkins</a> · live data from GitHub</sub>
+<sub>3D cards rebuilt from live GitHub data every 6 hours · language card by <a href="https://www.gitskins.com">GitSkins</a></sub>
 
 </div>
