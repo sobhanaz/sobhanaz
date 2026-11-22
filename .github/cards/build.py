@@ -2,7 +2,7 @@
 """Build the animated 3D profile cards from live GitHub data.
 
 Usage: GITHUB_TOKEN=... python3 build.py --user sobhanaz --out dist
-Writes hero.svg, stats.svg, building.svg and city.svg. Only numbers that match the
+Writes hero.svg, stats.svg, building.svg, languages.svg and city.svg. Only numbers that match the
 public profile are shown, and private repositories are never listed.
 """
 import argparse
@@ -26,6 +26,7 @@ PROFILE = {
 EXCLUDE = {"sobhanaz/sobhanaz", "Tecso-Dev/.github"}
 BUILDING_DAYS = 90
 BUILDING_ROWS = 5
+LANGUAGE_ROWS = 5
 
 SANS = "-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif"
 MONO = "ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace"
@@ -42,6 +43,12 @@ query($login: String!, $from: DateTime!) {
   user(login: $login) {
     followers { totalCount }
     repositories(ownerAffiliations: OWNER, privacy: PUBLIC) { totalCount }
+    langs: repositories(ownerAffiliations: OWNER, privacy: PUBLIC, isFork: false, first: 100) {
+      nodes {
+        nameWithOwner
+        languages(first: 10, orderBy: {field: SIZE, direction: DESC}) { edges { size node { name color } } }
+      }
+    }
     year: contributionsCollection {
       contributionCalendar {
         totalContributions
@@ -104,12 +111,28 @@ def summarize(u):
         ))
     repos.sort(key=lambda r: -r["commits"])
 
+    lang_bytes, lang_color, lang_repos = {}, {}, 0
+    for r in u["langs"]["nodes"]:  # first 100 public, non-fork repos
+        if r["nameWithOwner"] in EXCLUDE or not r["languages"]["edges"]:
+            continue
+        lang_repos += 1
+        for e in r["languages"]["edges"]:
+            name = e["node"]["name"]
+            lang_bytes[name] = lang_bytes.get(name, 0) + e["size"]
+            lang_color.setdefault(name, e["node"]["color"] or C["accent"])
+    lang_total = sum(lang_bytes.values()) or 1
+    languages = [
+        dict(name=n, bytes=b, pct=100 * b / lang_total, color=lang_color[n])
+        for n, b in sorted(lang_bytes.items(), key=lambda kv: -kv[1])
+    ][:LANGUAGE_ROWS]
+
     return dict(
         total=u["year"]["contributionCalendar"]["totalContributions"],
         active=sum(1 for c in counts if c), span=len(days), longest=longest, current=current,
         best=best, days=days, weeks=len(weeks),
         followers=u["followers"]["totalCount"], repos_public=u["repositories"]["totalCount"],
         building=repos[:BUILDING_ROWS], building_total=sum(r["commits"] for r in repos),
+        languages=languages, lang_repos=lang_repos,
         updated=date.today().isoformat(),
     )
 
@@ -343,6 +366,47 @@ def building(s):
     return frame(w, h, uid, "  " + "\n  ".join(out), f"What I'm building: public commits by project in the last {BUILDING_DAYS} days", s["updated"])
 
 
+def size_label(n):
+    return f"{n / 1_000_000:.1f} MB" if n >= 1_000_000 else f"{max(1, round(n / 1000))} KB"
+
+
+def languages(s):
+    rows = s["languages"]
+    w, uid = 860, "l"
+    h = 140 + max(1, len(rows)) * 48 + 30
+    out = [
+        kicker(44, 50, "LANGUAGE STACK · PUBLIC REPOSITORIES"),
+        f'<text x="44" y="80" font-family="{SANS}" font-size="20" font-weight="700" fill="{C["text"]}">Language mix across public repositories</text>',
+        f'<text x="{w - 44}" y="80" text-anchor="end" font-family="{MONO}" font-size="13" fill="{C["accent2"]}">{s["lang_repos"]} repos</text>',
+    ]
+    top = max((r["pct"] for r in rows), default=1)
+    bx, bmax, depth = 330, 380, 7
+    for i, r in enumerate(rows):
+        y = 112 + i * 48
+        length = max(12, bmax * r["pct"] / top)
+        color = r["color"]
+        front = [(bx, y + 8), (bx + length, y + 8), (bx + length, y + 28), (bx, y + 28)]
+        topf = [(bx, y + 8), (bx + depth, y + 8 - depth), (bx + length + depth, y + 8 - depth), (bx + length, y + 8)]
+        side = [(bx + length, y + 8), (bx + length + depth, y + 8 - depth), (bx + length + depth, y + 28 - depth), (bx + length, y + 28)]
+        cid = f"{uid}-r{i}"
+        out.append(
+            f'<text x="44" y="{y + 18}" font-family="{SANS}" font-size="14.5" font-weight="700" fill="{C["text"]}">{escape(r["name"])}</text>'
+            f'<circle cx="49" cy="{y + 32}" r="4" fill="{color}"/>'
+            f'<text x="59" y="{y + 36}" font-family="{MONO}" font-size="11" fill="{C["muted"]}">{size_label(r["bytes"])} of code</text>'
+            f'<rect x="{bx}" y="{y + 8}" width="{bmax}" height="20" rx="3" fill="{C["accent"]}" fill-opacity=".07"/>'
+            f'<polygon points="{pts(topf)}" fill="{shade(color, 1.15)}" fill-opacity=".95"/>'
+            f'<polygon points="{pts(side)}" fill="{shade(color, .5)}"/>'
+            f'<polygon points="{pts(front)}" fill="{shade(color, .8)}"/>'
+            f'<clipPath id="{cid}"><polygon points="{pts(front)}"/></clipPath>'
+            f'<g clip-path="url(#{cid})"><rect class="{uid}-sweep" style="animation-delay:{i * .4:.1f}s" x="{bx - 120}" y="{y + 8}" width="110" height="20" fill="url(#{uid}-sweep)"/></g>'
+            f'<text x="{bx + length + depth + 12:.1f}" y="{y + 24}" font-family="{MONO}" font-size="13" font-weight="700" fill="{C["text"]}">{r["pct"]:.0f}%</text>'
+        )
+    if not rows:
+        out.append(f'<text x="44" y="130" font-family="{SANS}" font-size="14" fill="{C["muted"]}">No language data yet.</text>')
+    out.append(f'<text x="44" y="{h - 28}" font-family="{MONO}" font-size="10" fill="{C["muted"]}" fill-opacity=".8">Share of code by bytes · non-fork public repositories</text>')
+    return frame(w, h, uid, "  " + "\n  ".join(out), "Language mix across public repositories: " + ", ".join(f"{r['name']} {r['pct']:.0f}%" for r in rows), s["updated"])
+
+
 def city(s):
     w, h, uid = 860, 452, "c"
     days = s["days"]
@@ -428,7 +492,7 @@ def main():
     s = summarize(fetch(args.user, token))
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
-    for name, fn in (("hero", hero), ("stats", stats), ("building", building), ("city", city)):
+    for name, fn in (("hero", hero), ("stats", stats), ("building", building), ("languages", languages), ("city", city)):
         (out / f"{name}.svg").write_text(fn(s), encoding="utf-8")
     print(json.dumps({k: v for k, v in s.items() if k not in ("days",)}, default=str, indent=1))
 
