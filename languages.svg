@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="410" viewBox="0 0 860 410" role="img" aria-label="Language mix across public repositories: Go 35%, Vue 27%, TypeScript 12%, PHP 11%, SCSS 3%">
+<title>Language mix across public repositories: Go 35%, Vue 27%, TypeScript 12%, PHP 11%, SCSS 3%</title>
+<defs>
+  <linearGradient id="l-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#020617"/><stop offset="54%" stop-color="#0f172a"/><stop offset="100%" stop-color="#020617"/></linearGradient>
+  <radialGradient id="l-o1"><stop offset="0%" stop-color="#818cf8" stop-opacity=".75"/><stop offset="60%" stop-color="#818cf8" stop-opacity=".15"/><stop offset="100%" stop-color="#818cf8" stop-opacity="0"/></radialGradient>
+  <radialGradient id="l-o2"><stop offset="0%" stop-color="#be5bf6" stop-opacity=".6"/><stop offset="60%" stop-color="#be5bf6" stop-opacity=".13"/><stop offset="100%" stop-color="#be5bf6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="l-o3"><stop offset="0%" stop-color="#5beaf6" stop-opacity=".55"/><stop offset="60%" stop-color="#5beaf6" stop-opacity=".12"/><stop offset="100%" stop-color="#5beaf6" stop-opacity="0"/></radialGradient>
+  <linearGradient id="l-shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#a5b4fc" stop-opacity=".15"/><stop offset="45%" stop-color="#818cf8" stop-opacity=".85"/><stop offset="100%" stop-color="#be5bf6" stop-opacity=".2"/></linearGradient>
+  <linearGradient id="l-word" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#e0e7ff"/><stop offset="55%" stop-color="#818cf8"/><stop offset="100%" stop-color="#be5bf6"/></linearGradient>
+  <linearGradient id="l-sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity=".16"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="l-clip"><rect width="860" height="410" rx="22"/></clipPath>
+</defs>
+<style>
+  .l-a{animation:l-fa 10s ease-in-out infinite}
+  .l-b{animation:l-fb 12s ease-in-out infinite 1s}
+  .l-c{animation:l-fc 14s ease-in-out infinite .5s}
+  .l-float{animation:l-float 4.5s ease-in-out infinite}
+  .l-bob{animation:l-bob 5s ease-in-out infinite}
+  .l-pulse{animation:l-pulse 2.4s ease-in-out infinite}
+  .l-sweep{animation:l-sweep 5.5s ease-in-out infinite}
+  .l-wave{opacity:0;animation:l-wave 7s linear infinite}
+  .l-twinkle{animation:l-twinkle 3.6s ease-in-out infinite}
+  @keyframes l-fa{0%,100%{transform:translate(0,0)}50%{transform:translate(26px,-18px)}}
+  @keyframes l-fb{0%,100%{transform:translate(0,0)}50%{transform:translate(-22px,16px)}}
+  @keyframes l-fc{0%,100%{transform:translate(0,0)}50%{transform:translate(16px,-10px)}}
+  @keyframes l-float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+  @keyframes l-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+  @keyframes l-pulse{0%,100%{opacity:.35}50%{opacity:1}}
+  @keyframes l-sweep{0%{transform:translateX(-260px)}60%,100%{transform:translateX(1100px)}}
+  @keyframes l-wave{0%{opacity:0}6%{opacity:.55}14%,100%{opacity:0}}
+  @keyframes l-twinkle{0%,100%{opacity:.15}50%{opacity:.9}}
+  @media (prefers-reduced-motion:reduce){.l-a,.l-b,.l-c,.l-float,.l-bob,.l-pulse,.l-sweep,.l-wave,.l-twinkle{animation:none}}
+</style>
+<g clip-path="url(#l-clip)">
+  <rect width="860" height="410" fill="url(#l-bg)"/>
+  <g opacity=".55">
+    <circle class="l-a" cx="705" cy="66" r="230" fill="url(#l-o1)"/>
+    <circle class="l-b" cx="86" cy="390" r="210" fill="url(#l-o2)"/>
+    <circle class="l-c" cx="834" cy="377" r="170" fill="url(#l-o3)"/>
+  </g>
+  <rect x="16" y="16" width="828" height="378" rx="18" fill="#fff" fill-opacity=".03" stroke="url(#l-shine)" stroke-width="1.2"/>
+  <text x="44" y="50" text-anchor="start" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="11" letter-spacing="3" fill="#94a3b8">LANGUAGE STACK · PUBLIC REPOSITORIES</text>
+  <text x="44" y="80" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#e0e7ff">Language mix across public repositories</text>
+  <text x="816" y="80" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" fill="#a5b4fc">30 repos</text>
+  <text x="44" y="130" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#e0e7ff">Go</text><circle cx="49" cy="144" r="4" fill="#00ADD8"/><text x="59" y="148" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="11" fill="#94a3b8">12.6 MB of code</text><rect x="330" y="120" width="380" height="20" rx="3" fill="#818cf8" fill-opacity=".07"/><polygon points="330.0,120.0 337.0,113.0 717.0,113.0 710.0,120.0" fill="#00c6f8" fill-opacity=".95"/><polygon points="710.0,120.0 717.0,113.0 717.0,133.0 710.0,140.0" fill="#00566c"/><polygon points="330.0,120.0 710.0,120.0 710.0,140.0 330.0,140.0" fill="#008aac"/><clipPath id="l-r0"><polygon points="330.0,120.0 710.0,120.0 710.0,140.0 330.0,140.0"/></clipPath><g clip-path="url(#l-r0)"><rect class="l-sweep" style="animation-delay:0.0s" x="210" y="120" width="110" height="20" fill="url(#l-sweep)"/></g><text x="729.0" y="136" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#e0e7ff">35%</text>
+  <text x="44" y="178" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#e0e7ff">Vue</text><circle cx="49" cy="192" r="4" fill="#41b883"/><text x="59" y="196" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="11" fill="#94a3b8">9.7 MB of code</text><rect x="330" y="168" width="380" height="20" rx="3" fill="#818cf8" fill-opacity=".07"/><polygon points="330.0,168.0 337.0,161.0 631.1,161.0 624.1,168.0" fill="#4ad396" fill-opacity=".95"/><polygon points="624.1,168.0 631.1,161.0 631.1,181.0 624.1,188.0" fill="#205c41"/><polygon points="330.0,168.0 624.1,168.0 624.1,188.0 330.0,188.0" fill="#349368"/><clipPath id="l-r1"><polygon points="330.0,168.0 624.1,168.0 624.1,188.0 330.0,188.0"/></clipPath><g clip-path="url(#l-r1)"><rect class="l-sweep" style="animation-delay:0.4s" x="210" y="168" width="110" height="20" fill="url(#l-sweep)"/></g><text x="643.1" y="184" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#e0e7ff">27%</text>
+  <text x="44" y="226" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#e0e7ff">TypeScript</text><circle cx="49" cy="240" r="4" fill="#3178c6"/><text x="59" y="244" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="11" fill="#94a3b8">4.3 MB of code</text><rect x="330" y="216" width="380" height="20" rx="3" fill="#818cf8" fill-opacity=".07"/><polygon points="330.0,216.0 337.0,209.0 467.8,209.0 460.8,216.0" fill="#388ae3" fill-opacity=".95"/><polygon points="460.8,216.0 467.8,209.0 467.8,229.0 460.8,236.0" fill="#183c63"/><polygon points="330.0,216.0 460.8,216.0 460.8,236.0 330.0,236.0" fill="#27609e"/><clipPath id="l-r2"><polygon points="330.0,216.0 460.8,216.0 460.8,236.0 330.0,236.0"/></clipPath><g clip-path="url(#l-r2)"><rect class="l-sweep" style="animation-delay:0.8s" x="210" y="216" width="110" height="20" fill="url(#l-sweep)"/></g><text x="479.8" y="232" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#e0e7ff">12%</text>
+  <text x="44" y="274" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#e0e7ff">PHP</text><circle cx="49" cy="288" r="4" fill="#4F5D95"/><text x="59" y="292" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="11" fill="#94a3b8">3.9 MB of code</text><rect x="330" y="264" width="380" height="20" rx="3" fill="#818cf8" fill-opacity=".07"/><polygon points="330.0,264.0 337.0,257.0 454.9,257.0 447.9,264.0" fill="#5a6aab" fill-opacity=".95"/><polygon points="447.9,264.0 454.9,257.0 454.9,277.0 447.9,284.0" fill="#272e4a"/><polygon points="330.0,264.0 447.9,264.0 447.9,284.0 330.0,284.0" fill="#3f4a77"/><clipPath id="l-r3"><polygon points="330.0,264.0 447.9,264.0 447.9,284.0 330.0,284.0"/></clipPath><g clip-path="url(#l-r3)"><rect class="l-sweep" style="animation-delay:1.2s" x="210" y="264" width="110" height="20" fill="url(#l-sweep)"/></g><text x="466.9" y="280" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#e0e7ff">11%</text>
+  <text x="44" y="322" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#e0e7ff">SCSS</text><circle cx="49" cy="336" r="4" fill="#c6538c"/><text x="59" y="340" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="11" fill="#94a3b8">1.1 MB of code</text><rect x="330" y="312" width="380" height="20" rx="3" fill="#818cf8" fill-opacity=".07"/><polygon points="330.0,312.0 337.0,305.0 370.9,305.0 363.9,312.0" fill="#e35fa1" fill-opacity=".95"/><polygon points="363.9,312.0 370.9,305.0 370.9,325.0 363.9,332.0" fill="#632946"/><polygon points="330.0,312.0 363.9,312.0 363.9,332.0 330.0,332.0" fill="#9e4270"/><clipPath id="l-r4"><polygon points="330.0,312.0 363.9,312.0 363.9,332.0 330.0,332.0"/></clipPath><g clip-path="url(#l-r4)"><rect class="l-sweep" style="animation-delay:1.6s" x="210" y="312" width="110" height="20" fill="url(#l-sweep)"/></g><text x="382.9" y="328" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#e0e7ff">3%</text>
+  <text x="44" y="382" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="10" fill="#94a3b8" fill-opacity=".8">Share of code by bytes · non-fork public repositories</text>
+  <text x="826" y="382" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="10" fill="#94a3b8" fill-opacity=".8">live from GitHub · updated 2026-11-28</text>
+</g>
+<rect x=".5" y=".5" width="859" height="409" rx="21.5" fill="none" stroke="#818cf8" stroke-opacity=".35"/>
+</svg>
